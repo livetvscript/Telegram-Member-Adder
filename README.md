@@ -11,7 +11,7 @@ You will get a scraper script that will scrape members from any telegram group f
 *GROUP ADDER SCRIPT
 You will get a group adder script, which will add members from the scrapped list into your group.
 
-#BONUSES
+# BONUSES
 
 *SETUP GUIDE
 You will get a step by step guide which will help you to get started with the scripts. In this guide, I will explain everything in detail so that you don't feel lost.
@@ -32,7 +32,7 @@ You will get access to our methods which will help you to find Telegram group or
 You will get a well-detailed list of different methods that you can use to make money from telegram.
 
 
-#FAQ
+# FAQ
 
 Q: In which language these scripts are written?
 A: These scripts are written in Python programming language.
